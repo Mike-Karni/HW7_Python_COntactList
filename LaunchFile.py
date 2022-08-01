@@ -1,0 +1,3 @@
+import  AssemblerFile
+
+AssemblerFile.MainFunction()
